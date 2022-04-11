@@ -7,8 +7,8 @@ import xo
 
 #
 
-token = "HIER DEN TOKEN EINFÜGEN"
-my_guild = "TakeItEasy"
+token = "BOT TOKEN HERE!"
+my_guild = "GUILD NAME HERE"
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
